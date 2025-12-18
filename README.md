@@ -1,16 +1,25 @@
-## Hi there 👋
+# Trifalic
 
-<!--
-**Trifalic/Trifalic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi my name is Trifalic and I am an aspiring Peneteration tester.I am in high school and thinking of starting an business.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- Cybersecurity - Peneteration Tester
+- Programming - Python , Making AI websites 
+
+---
+
+## Tech Stack
+### Languages
+- Python
+- JavaScript
+
+---
+
+## Goals
+- Become an pro peneteration tester
+- Start an successfull busness
+
+## Social
+- [My Youtube Channel Link](https://www.youtube.com/@trifalic-coder)
